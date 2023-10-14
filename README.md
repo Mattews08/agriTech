@@ -26,3 +26,6 @@ Siga estas etapas para configurar e executar o aplicativo:
 
   expo start
 
+4. ** Execute no Android/IOS ou Baixe o App Expo na Play Store
+
+  npm run android (ou ios)
