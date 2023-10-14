@@ -1,4 +1,4 @@
-# agriTech# Nome do Seu Aplicativo
+# agriTech#
 
 
 # Pré-requisitos
